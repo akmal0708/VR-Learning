@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Island",
+  "description": "An explorable 3D stylized fantasy island adventure environment built with Three.js and WebGL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
